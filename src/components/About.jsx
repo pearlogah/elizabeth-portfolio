@@ -12,7 +12,7 @@ function About() {
         background and transitioned into tech 2 Years Ago</p>
         <p>I participated and led a team to create a Social Impact Project to promote the adoption 
          of Blockchain Technology among Women and Girls .</p>
-         <p> I am always thrilled and excited to speak the Gospel of Blockchian Technology, with it Possiblities
+         <p> I am always thrilled and excited to speak the Gospel of Blockchain Technology, with it Possiblities
             of changing the World. </p>
         </div>
         <div className="profile-image">
